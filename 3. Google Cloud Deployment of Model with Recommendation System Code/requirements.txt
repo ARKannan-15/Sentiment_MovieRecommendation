@@ -1,0 +1,10 @@
+
+Flask==1.1.2
+numpy==1.21.0
+jinja2<3.1.0
+gunicorn==19.9.0
+Flask-RESTful
+tweepy==3.7.0
+pandas==0.24.2
+sklearn
+psutil
